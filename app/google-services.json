@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027994872712",
+    "project_id": "helloworldapp-d4c24",
+    "storage_bucket": "helloworldapp-d4c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027994872712:android:cca0e4011b3610cf6de83d",
+        "android_client_info": {
+          "package_name": "evgeniya.app.helloworldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027994872712-vcm6tc41amvfijqm1b2u6qtb60uep88n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpeGQCLhZM_XKyHKyn4KJPKzTFyRwtkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027994872712-vcm6tc41amvfijqm1b2u6qtb60uep88n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
