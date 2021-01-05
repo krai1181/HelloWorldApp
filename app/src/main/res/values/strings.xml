@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWorldApp</string>
+    <string name="hello_ci_cd">Hello CI/CD!</string>
 </resources>
